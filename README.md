@@ -34,7 +34,7 @@ splot "solution.gpl"
 
 ## Results
 ### Cube
-![cube grid](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/grid_cube.png)
+![cube grid](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/grid_cube.png | width=700)
 ![cube contour](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/cube_contour.png)
 ### Circle
 ![circle grid](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/circle_grid.png)
