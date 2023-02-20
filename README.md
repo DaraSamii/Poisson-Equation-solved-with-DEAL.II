@@ -4,10 +4,10 @@ This Repository contains code for solving Poisson's Equations in three geometrie
 
 ## Poisson's Equation 
 ‍‍‍```math
-\begin{cases}
-	-\Delta u = f \;\;\;\;\; in \;\;\;\; \Omega \\
+
+-\Delta u = f \;\;\;\;\; in \;\;\;\; \Omega 
 \;\;\;\;\;\; u = 0 \;\;\;\;\; in \;\;\;\; \partial \Omega
-\end{cases}
+
 ```
 
 ## Compiling
