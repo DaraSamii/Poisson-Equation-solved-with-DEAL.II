@@ -34,11 +34,8 @@ splot "solution.gpl"
 
 ## Results
 ### Cube
-![cube grid](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/grid_cube.png | width=700)
 ![cube contour](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/cube_contour.png)
 ### Circle
-![circle grid](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/circle_grid.png)
 ![circle contour](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/circle_contour.png)
 ### Ring
-![ring grid](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/ring_grind.png)
 ![ring contour](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/ring_contour.png)
