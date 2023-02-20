@@ -3,11 +3,13 @@ This Repository contains code for solving Poisson's Equations in three geometrie
 
 
 ## Poisson's Equation 
-‍‍‍```math
+‍‍
+```math
+-\Delta u = f \;\; in \;\; \Omega
+```
 
--\Delta u = f \;\;\;\;\; in \;\;\;\; \Omega 
-\;\;\;\;\;\; u = 0 \;\;\;\;\; in \;\;\;\; \partial \Omega
-
+```math
+u = 0 \;\; in \;\; \partial \Omega
 ```
 
 ## Compiling
@@ -30,5 +32,13 @@ set style data line
 splot "solution.gpl"
 ```
 
-# Results
-
+## Results
+### Cube
+![cube grid](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/grid_cube.png)
+![cube contour](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/cube_contour.png)
+### Circle
+![circle grid](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/circle_grid.png)
+![circle contour](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/circle_contour.png)
+### Ring
+![ring grid](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/ring_grind.png)
+![ring contour](https://github.com/DaraSamii/Poisson-Equation-solved-with-DEAL.II/blob/master/images/ring_contour.png)
